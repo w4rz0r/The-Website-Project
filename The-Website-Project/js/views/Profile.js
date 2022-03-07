@@ -39,7 +39,7 @@ views.profile = () => {
         
     <div class="row">
         <div class="Profile-col">
-            <img url(https://github.com/w4rz0r/The-Website-Project/blob/main/The-Website-Project/images/class.png?raw=true)>
+            <img src="https://github.com/w4rz0r/The-Website-Project/blob/main/The-Website-Project/images/class.png?raw=true">
             <div class="layer">
                 <h3>Classes</h3>
             </div>

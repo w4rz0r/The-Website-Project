@@ -12,13 +12,13 @@ views.Classes = () => {
 
     <div class="row">
         <div class="Classes-col">
-            <img src="images/Warrior.png">
+            <img src="https://github.com/w4rz0r/The-Website-Project/blob/main/The-Website-Project/images/warrior.png?raw=true">
             <div class="layer2">
                 <h3>Warrior</h3>
             </div>
         </div>
         <div class="Classes-col">
-            <img src="images/Archer.png">
+            <img src="https://github.com/w4rz0r/The-Website-Project/blob/main/The-Website-Project/images/archer.png?raw=true">
             <div class="layer2">
                 <h3>Archer</h3>
             </div>
@@ -38,13 +38,13 @@ views.Classes = () => {
             </div>
         </div>
         <div class="Classes-col">
-            <img src="images/Mage.png">
+            <img src="https://github.com/w4rz0r/The-Website-Project/blob/main/The-Website-Project/images/mage.png?raw=true">
             <div class="layer2">
                 <h3>Mage</h3>
             </div>
         </div>
         <div class="Classes-col">
-            <img src="images/Paladin.png">
+            <img src="https://github.com/w4rz0r/The-Website-Project/blob/main/The-Website-Project/images/paladin.png?raw=true">
             <div class="layer2">
                 <h3>Paladin</h3>
             </div>
@@ -58,7 +58,7 @@ views.Classes = () => {
         </div>
     </div>
     <div class="Classes-col">
-        <img src="images/assassin.png">
+        <img src="https://github.com/w4rz0r/The-Website-Project/blob/main/The-Website-Project/images/Assassin.png?raw=true">
         <div class="layer2">
             <h3>Assassin</h3>
         </div>

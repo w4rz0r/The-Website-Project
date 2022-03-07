@@ -30,7 +30,7 @@ nav .logo {
     height: 110px;
     width: 150px;
     border-radius: 20px 50px;
-    background-image: linear-gradient(rgba(7, 18, 61, 0.7), rgba(12, 11, 11, 0.7)), url(/The-Website-Project/images/valkyrie.gif);
+    background-image: linear-gradient(rgba(7, 18, 61, 0.7), rgba(12, 11, 11, 0.7)), url(https://github.com/w4rz0r/The-Website-Project/blob/main/The-Website-Project/images/valkyrie.gif?raw=true);
     background-size: cover;
     background-position: center;
 }

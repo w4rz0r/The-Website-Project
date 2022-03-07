@@ -48,7 +48,7 @@ views.HIW = () => {
 
 <div class="row">
     <div class="Progression-col">
-        <img src="https://github.com/w4rz0r/The-Website-Project/blob/main/The-Website-Project/images/backgroundPurple.png?raw=true">
+        <img url(https://github.com/w4rz0r/The-Website-Project/blob/main/The-Website-Project/images/backgroundPurple.png?raw=true)>
         <h3>How do i Progress?</h3>
         <p>
             Neque porro quisquam est qui 

@@ -46,6 +46,7 @@ nav .logo {
     padding: 8px 12px;
     position: relative;
     color: #0330b0;
+    cursor: pointer;
 }
 
 .nav-links ul li a {
@@ -479,6 +480,7 @@ nav .fa {
     width: 20%;
     height: 40px;
     background-color: #a00452;
+    cursor: pointer;
 }
 
 

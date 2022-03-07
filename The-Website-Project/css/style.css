@@ -281,7 +281,7 @@ nav .fa {
 
 .HIW-col {
     flex-basis: 31%;
-    background-image: url(/The-Website-Project/images/backgroundMetallic.png);
+    background-image: url(https://github.com/w4rz0r/The-Website-Project/blob/main/The-Website-Project/images/backgroundMetallic.png?raw=true);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -497,7 +497,7 @@ nav .fa {
 .mission-bubbles {
     border-radius: 10px;
     overflow-y: auto;
-    background-image: url(/The-Website-Project/images/metalbanner.png);
+    background-image: url(https://github.com/w4rz0r/The-Website-Project/blob/main/The-Website-Project/images/metalbanner.png?raw=true);
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
@@ -521,7 +521,7 @@ nav .fa {
     padding: 30px;
     font-size: 30px;
     text-align: left;
-    background-image: url(/The-Website-Project/images/noteBackground.png);
+    background-image: url(https://github.com/w4rz0r/The-Website-Project/blob/main/The-Website-Project/images/noteBackground.png?raw=true);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: center;
